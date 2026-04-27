@@ -32,7 +32,9 @@ h1, h2, h3 {
 /* 4: De header afbeelding is op dit moment te groot. Geef de <img>-tag in de header van het HTML-document een passende id-naam,
 zodat we de declaratie "width: 100%;" in de CSS erop toe te passen */
 
-
+#img-hero {
+    width: 100%;
+}
 
 /* 5: Er staan meerdere links in het document. Zorg ervoor dat alléén de links in de navigatiebalk de tekstkleur "indianred" krijgen.
 Tip: gebruik hier een combinator voor */
